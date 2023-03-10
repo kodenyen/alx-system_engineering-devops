@@ -1,0 +1,2 @@
+#!/bin/bas
+chmod ug+x,o+r hello
