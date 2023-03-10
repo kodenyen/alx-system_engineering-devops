@@ -1,2 +1,3 @@
 #!/bin/bash
-ls :mime School
+ls 0 string SCHOOL :mime SChool
+
